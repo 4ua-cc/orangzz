@@ -9,7 +9,7 @@ on:
     branches: ["main"]
 
 env:
-  USER_NAME: 4ua-cc
+  USER_NAME: 4uua
 
 jobs:
   github-metrics:
