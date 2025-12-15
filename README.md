@@ -5,10 +5,10 @@
 <!-- info grpah -->
 <p>
   <a href="#">
-<img src="https://github.com/uyaox/uyaox/blob/main/metrics1.svg" width="48%" />
+<img src="https://github.com/4uua/4uua/blob/main/metrics1.svg" width="48%" />
   </a>
   <a href="#">
-<img src="https://github.com/uyaox/uyaox/blob/main/metrics2.svg" width="48%" />
+<img src="https://github.com/4uua/4uua/blob/main/metrics2.svg" width="48%" />
   </a>
 </p>
 
